@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghune-khawa-rod/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ghune Khawa Rod](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghune-khawa-rod/) |
+| **Get License** | [Commercial Licensing for Ghune Khawa Rod](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghune-khawa-rod/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7af46955f3c76cc648041395e49077b7bfb94ac55ef19c49ce93beba011f02cd` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

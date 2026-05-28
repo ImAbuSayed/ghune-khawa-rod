@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghune Khawa Rod
+
+This log tracks the cryptographic history and versioning for the song **Ghune Khawa Rod** (ghune-khawa-rod).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:07:58.272671 | `v1` | `7af46955f3c76cc648041395e49077b7bfb94ac55ef19c49ce93beba011f02cd` | `54c4d769f9dd6b7b13d3ab7704cf552ca9a799a3dfe2f87f83433cf278764d42` | `2026-05-29_ghune-khawa-rod-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
