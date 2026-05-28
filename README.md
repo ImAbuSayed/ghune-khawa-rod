@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghune-khawa-rod/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ghune Khawa Rod](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghune-khawa-rod/) |
+| **Get License** | [Get a Licensing Quote for Ghune Khawa Rod](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghune-khawa-rod/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার চিরে নামছে বুকে ঘুণে খাওয়া রোদ
+> তোমার ছায়ায় খুঁজছি আমি অন্ধ প্রতিশোধ
+> নিঃস্ব এই মেঘের ভেতর পুড়ছে কত রাত
+> শূণ্যতার এই নীরব পথে দাও বাড়িয়ে হাত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
